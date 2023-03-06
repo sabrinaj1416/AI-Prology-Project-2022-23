@@ -1,4 +1,5 @@
 %Shanice Facey -1701438
+%Kevin Campbell - 1900390
 :- use_module(library(pce)).
 :-dynamic statistics/1.
 :-dynamic statistics/2.
